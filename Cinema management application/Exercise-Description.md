@@ -29,4 +29,17 @@ We need to present the ability to the customer to:
     Snacks
       Add snacks or drinks to stock 
       Remove snacks or drinks from stock
+      
+3.Display next playing movies 
+
+4.Overview
+
+    Total seats sold
+    Overall revenue 
+    Revenue from snacks 
+    Revenue from movie tickets only (snacks excluded)
+    Total seats left
+    List of all halls with movie info
+    Info for single hall
+
 
