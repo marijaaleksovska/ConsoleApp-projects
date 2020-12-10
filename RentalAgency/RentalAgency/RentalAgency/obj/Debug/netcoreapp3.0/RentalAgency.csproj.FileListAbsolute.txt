@@ -1,0 +1,11 @@
+C:\Users\ACER\Desktop\Code Academy\C#\class7\RentalAgency\RentalAgency\bin\Debug\netcoreapp3.0\RentalAgency.exe
+C:\Users\ACER\Desktop\Code Academy\C#\class7\RentalAgency\RentalAgency\bin\Debug\netcoreapp3.0\RentalAgency.deps.json
+C:\Users\ACER\Desktop\Code Academy\C#\class7\RentalAgency\RentalAgency\bin\Debug\netcoreapp3.0\RentalAgency.runtimeconfig.json
+C:\Users\ACER\Desktop\Code Academy\C#\class7\RentalAgency\RentalAgency\bin\Debug\netcoreapp3.0\RentalAgency.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Code Academy\C#\class7\RentalAgency\RentalAgency\bin\Debug\netcoreapp3.0\RentalAgency.dll
+C:\Users\ACER\Desktop\Code Academy\C#\class7\RentalAgency\RentalAgency\bin\Debug\netcoreapp3.0\RentalAgency.pdb
+C:\Users\ACER\Desktop\Code Academy\C#\class7\RentalAgency\RentalAgency\obj\Debug\netcoreapp3.0\RentalAgency.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Code Academy\C#\class7\RentalAgency\RentalAgency\obj\Debug\netcoreapp3.0\RentalAgency.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Code Academy\C#\class7\RentalAgency\RentalAgency\obj\Debug\netcoreapp3.0\RentalAgency.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Code Academy\C#\class7\RentalAgency\RentalAgency\obj\Debug\netcoreapp3.0\RentalAgency.dll
+C:\Users\ACER\Desktop\Code Academy\C#\class7\RentalAgency\RentalAgency\obj\Debug\netcoreapp3.0\RentalAgency.pdb
