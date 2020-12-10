@@ -1,0 +1,11 @@
+C:\Users\ACER\Desktop\Code Academy\C#\class9\CinemaManagement\bin\Debug\netcoreapp3.0\CinemaManagement.exe
+C:\Users\ACER\Desktop\Code Academy\C#\class9\CinemaManagement\bin\Debug\netcoreapp3.0\CinemaManagement.deps.json
+C:\Users\ACER\Desktop\Code Academy\C#\class9\CinemaManagement\bin\Debug\netcoreapp3.0\CinemaManagement.runtimeconfig.json
+C:\Users\ACER\Desktop\Code Academy\C#\class9\CinemaManagement\bin\Debug\netcoreapp3.0\CinemaManagement.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Code Academy\C#\class9\CinemaManagement\bin\Debug\netcoreapp3.0\CinemaManagement.dll
+C:\Users\ACER\Desktop\Code Academy\C#\class9\CinemaManagement\bin\Debug\netcoreapp3.0\CinemaManagement.pdb
+C:\Users\ACER\Desktop\Code Academy\C#\class9\CinemaManagement\obj\Debug\netcoreapp3.0\CinemaManagement.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Code Academy\C#\class9\CinemaManagement\obj\Debug\netcoreapp3.0\CinemaManagement.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Code Academy\C#\class9\CinemaManagement\obj\Debug\netcoreapp3.0\CinemaManagement.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Code Academy\C#\class9\CinemaManagement\obj\Debug\netcoreapp3.0\CinemaManagement.dll
+C:\Users\ACER\Desktop\Code Academy\C#\class9\CinemaManagement\obj\Debug\netcoreapp3.0\CinemaManagement.pdb
