@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Pizzeria.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Pizzeria.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pizzeria.Common.dll": {}
+        }
+      },
+      "Pizzeria.Managment/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Pizzeria.Common": "1.0.0",
+          "Pizzeria.Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pizzeria.Managment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pizzeria.Managment.dll": {}
+        }
+      },
+      "Pizzeria.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Pizzeria.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pizzeria.Models.dll": {}
+        }
+      },
+      "Pizzeria.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Pizzeria.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pizzeria.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pizzeria.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pizzeria.Common/1.0.0": {
+      "type": "project",
+      "path": "../Pizzeria.Common/Pizzeria.Common.csproj",
+      "msbuildProject": "../Pizzeria.Common/Pizzeria.Common.csproj"
+    },
+    "Pizzeria.Managment/1.0.0": {
+      "type": "project",
+      "path": "../Pizzeria.Managment/Pizzeria.Managment.csproj",
+      "msbuildProject": "../Pizzeria.Managment/Pizzeria.Managment.csproj"
+    },
+    "Pizzeria.Models/1.0.0": {
+      "type": "project",
+      "path": "../Pizzeria.Models/Pizzeria.Models.csproj",
+      "msbuildProject": "../Pizzeria.Models/Pizzeria.Models.csproj"
+    },
+    "Pizzeria.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Pizzeria.Repositories/Pizzeria.Repositories.csproj",
+      "msbuildProject": "../Pizzeria.Repositories/Pizzeria.Repositories.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Pizzeria.Common >= 1.0.0",
+      "Pizzeria.Managment >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Code Academy\\C#\\class15\\Pizzeria\\Pizzeria.csproj",
+      "projectName": "Pizzeria",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\C#\\class15\\Pizzeria\\Pizzeria.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\C#\\class15\\Pizzeria\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\ACER\\Desktop\\Code Academy\\C#\\class15\\Pizzeria.Common\\Pizzeria.Common.csproj": {
+              "projectPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\C#\\class15\\Pizzeria.Common\\Pizzeria.Common.csproj"
+            },
+            "C:\\Users\\ACER\\Desktop\\Code Academy\\C#\\class15\\Pizzeria.Managment\\Pizzeria.Managment.csproj": {
+              "projectPath": "C:\\Users\\ACER\\Desktop\\Code Academy\\C#\\class15\\Pizzeria.Managment\\Pizzeria.Managment.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
