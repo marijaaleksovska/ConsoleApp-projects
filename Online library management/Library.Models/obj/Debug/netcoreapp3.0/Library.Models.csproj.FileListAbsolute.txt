@@ -1,0 +1,8 @@
+C:\Users\ACER\Desktop\C#-Test\Library.Models\bin\Debug\netcoreapp3.0\Library.Models.deps.json
+C:\Users\ACER\Desktop\C#-Test\Library.Models\bin\Debug\netcoreapp3.0\Library.Models.dll
+C:\Users\ACER\Desktop\C#-Test\Library.Models\bin\Debug\netcoreapp3.0\Library.Models.pdb
+C:\Users\ACER\Desktop\C#-Test\Library.Models\obj\Debug\netcoreapp3.0\Library.Models.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\C#-Test\Library.Models\obj\Debug\netcoreapp3.0\Library.Models.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\C#-Test\Library.Models\obj\Debug\netcoreapp3.0\Library.Models.AssemblyInfo.cs
+C:\Users\ACER\Desktop\C#-Test\Library.Models\obj\Debug\netcoreapp3.0\Library.Models.dll
+C:\Users\ACER\Desktop\C#-Test\Library.Models\obj\Debug\netcoreapp3.0\Library.Models.pdb

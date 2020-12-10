@@ -1,0 +1,1 @@
+[{"Id":2,"Name":"Sara","Surname":"Aleksovska","Email":"sara@gmail.com","RentedBooks":[{"Id":2,"Title":"Harry Potter","NumOfCopies":49}]},{"Id":3,"Name":"Ana","Surname":"Nikolovska","Email":"ananik@gmail.com","RentedBooks":[]}]
