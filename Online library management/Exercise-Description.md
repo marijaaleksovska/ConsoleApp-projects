@@ -42,4 +42,4 @@ The application should have the following functionalities:
       Delete existing book
       Print all rented books
 
-NOTE: C# and OOP Test
+NOTE: C# and OOP Test and I had 100 out of 100 points!
