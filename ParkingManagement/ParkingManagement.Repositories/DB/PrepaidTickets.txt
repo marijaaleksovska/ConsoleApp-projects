@@ -1,0 +1,1 @@
+[{"Id":2,"CarRegistrationNumber":"ASDASD","ValidFrom":"2020-02-26T19:50:18.2562228+01:00","ValidTo":"2020-07-26T19:50:18.2562556+02:00","Price":7500.0},{"Id":3,"CarRegistrationNumber":"ASD","ValidFrom":"2020-02-26T19:50:59.1676578+01:00","ValidTo":"2021-02-26T19:50:59.1678272+01:00","Price":18000.0}]

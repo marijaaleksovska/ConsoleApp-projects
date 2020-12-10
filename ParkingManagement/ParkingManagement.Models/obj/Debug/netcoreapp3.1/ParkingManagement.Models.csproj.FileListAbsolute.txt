@@ -1,0 +1,7 @@
+C:\Users\Toni\Desktop\Parking Management\ParkingManagement\ParkingManagement.Models\bin\Debug\netcoreapp3.1\ParkingManagement.Models.deps.json
+C:\Users\Toni\Desktop\Parking Management\ParkingManagement\ParkingManagement.Models\bin\Debug\netcoreapp3.1\ParkingManagement.Models.dll
+C:\Users\Toni\Desktop\Parking Management\ParkingManagement\ParkingManagement.Models\bin\Debug\netcoreapp3.1\ParkingManagement.Models.pdb
+C:\Users\Toni\Desktop\Parking Management\ParkingManagement\ParkingManagement.Models\obj\Debug\netcoreapp3.1\ParkingManagement.Models.AssemblyInfoInputs.cache
+C:\Users\Toni\Desktop\Parking Management\ParkingManagement\ParkingManagement.Models\obj\Debug\netcoreapp3.1\ParkingManagement.Models.AssemblyInfo.cs
+C:\Users\Toni\Desktop\Parking Management\ParkingManagement\ParkingManagement.Models\obj\Debug\netcoreapp3.1\ParkingManagement.Models.dll
+C:\Users\Toni\Desktop\Parking Management\ParkingManagement\ParkingManagement.Models\obj\Debug\netcoreapp3.1\ParkingManagement.Models.pdb
