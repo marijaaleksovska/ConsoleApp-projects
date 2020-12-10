@@ -1,7 +1,8 @@
 
 Create application that will allow to manage the students, subjects and teachers in a school. 
 
-The user should be allowed to: 
+The user should be allowed to:  
+
   Create new student
   See all students 
   Create teacher
