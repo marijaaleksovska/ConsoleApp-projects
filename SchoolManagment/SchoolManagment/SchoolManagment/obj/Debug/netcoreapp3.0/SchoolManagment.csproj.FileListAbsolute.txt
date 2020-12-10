@@ -1,0 +1,11 @@
+C:\Users\ACER\Desktop\Code Academy\C#\class6\SchoolManagment\SchoolManagment\bin\Debug\netcoreapp3.0\SchoolManagment.exe
+C:\Users\ACER\Desktop\Code Academy\C#\class6\SchoolManagment\SchoolManagment\bin\Debug\netcoreapp3.0\SchoolManagment.deps.json
+C:\Users\ACER\Desktop\Code Academy\C#\class6\SchoolManagment\SchoolManagment\bin\Debug\netcoreapp3.0\SchoolManagment.runtimeconfig.json
+C:\Users\ACER\Desktop\Code Academy\C#\class6\SchoolManagment\SchoolManagment\bin\Debug\netcoreapp3.0\SchoolManagment.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Code Academy\C#\class6\SchoolManagment\SchoolManagment\bin\Debug\netcoreapp3.0\SchoolManagment.dll
+C:\Users\ACER\Desktop\Code Academy\C#\class6\SchoolManagment\SchoolManagment\bin\Debug\netcoreapp3.0\SchoolManagment.pdb
+C:\Users\ACER\Desktop\Code Academy\C#\class6\SchoolManagment\SchoolManagment\obj\Debug\netcoreapp3.0\SchoolManagment.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Code Academy\C#\class6\SchoolManagment\SchoolManagment\obj\Debug\netcoreapp3.0\SchoolManagment.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Code Academy\C#\class6\SchoolManagment\SchoolManagment\obj\Debug\netcoreapp3.0\SchoolManagment.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Code Academy\C#\class6\SchoolManagment\SchoolManagment\obj\Debug\netcoreapp3.0\SchoolManagment.dll
+C:\Users\ACER\Desktop\Code Academy\C#\class6\SchoolManagment\SchoolManagment\obj\Debug\netcoreapp3.0\SchoolManagment.pdb
